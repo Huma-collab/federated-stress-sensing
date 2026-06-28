@@ -1,0 +1,5 @@
+Average accuracy:         0.6694
+Min accuracy:             0.2407
+Max accuracy:             1.0000
+Std deviation:            0.1902
+============================================================

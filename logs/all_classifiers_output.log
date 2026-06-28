@@ -1,0 +1,715 @@
+nohup: ignoring input
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/stress_env_310/lib/python3.10/site-packages/xgboost/core.py:377: FutureWarning: Your system has an old version of glibc (< 2.28). We will stop supporting Linux distros with glibc older than 2.28 after **May 31, 2025**. Please upgrade to a recent Linux distro (with glibc >= 2.28) to use future versions of XGBoost.
+Note: You have installed the 'manylinux2014' variant of XGBoost. Certain features such as GPU algorithms or federated learning are not available. To use these features, please upgrade to a recent Linux distro with glibc 2.28+, and install the 'manylinux_2_28' variant.
+  warnings.warn(
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/utils.py:432: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  z_scaled = stats.zscore(all_data, axis=0, nan_policy="omit")
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/data/dataset_combined.py:76: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  train_concat = pd.concat(train_dfs, ignore_index=True)
+Loading data for 87 users (per-user chronological split)...
+[1/87] 03a0ce56...
+------- ['03a0ce5623bfeb8aa3113605f7682215']
+False
+105
+[2/87] 0947cdc8...
+------- ['0947cdc8e87a0a45a012aa387ccedbcd']
+False
+50
+[3/87] 0ab7acb3...
+------- ['0ab7acb36e6c710a7733c1c24e566bb3']
+False
+92
+[4/87] 0f727c10...
+------- ['0f727c1018c74fbb7142e8c7a77840d6']
+False
+107
+[5/87] 107c0624...
+------- ['107c06248d28377b345ae06e5bda10c1']
+False
+112
+[6/87] 12f90c19...
+------- ['12f90c19f2c2b74ec542b62e74e7cad1']
+False
+68
+[7/87] 13789d5f...
+------- ['13789d5f8a59f1e347e42b99233530d6']
+False
+86
+[8/87] 1741432f...
+------- ['1741432fb469dbbcd5a40599670c64ce']
+False
+95
+[9/87] 17fb1517...
+------- ['17fb1517cc9d7e416782bffb8edd9070']
+False
+10
+[10/87] 1df93e60...
+------- ['1df93e607e693903c6fce6054a0a67c5']
+False
+86
+[11/87] 1ff6d7f3...
+------- ['1ff6d7f34acb354430e7323a35ff7703']
+False
+117
+[12/87] 20b8c420...
+------- ['20b8c420e5a7abcb07f11aab23e42923']
+False
+116
+[13/87] 21252173...
+------- ['212521733ea8eeff63d997dc0213c692']
+False
+52
+[14/87] 23d00aa2...
+------- ['23d00aa2ae3eb2c224734960f2391885']
+False
+103
+[15/87] 2b3d267f...
+------- ['2b3d267f18830c3c257b382edabef246']
+False
+13
+[16/87] 2cc3f627...
+------- ['2cc3f6274987ee627ab9be37181536eb']
+False
+78
+[17/87] 2d06da49...
+------- ['2d06da49889845dc3af964bafb630b0a']
+False
+99
+[18/87] 2d5d41b5...
+------- ['2d5d41b5e9a9a5bb7007264230e4c575']
+False
+87
+[19/87] 2de8db6a...
+------- ['2de8db6af975b72ac70440ede29e1cfb']
+False
+134
+[20/87] 34ed21e6...
+------- ['34ed21e64b190dc037d35ef7f646feb8']
+False
+85
+[21/87] 3569e2f5...
+------- ['3569e2f520db9014b4acc4227a6421c1']
+False
+80
+[22/87] 3dad5f11...
+------- ['3dad5f11680b432159b65838119ab87e']
+False
+103
+[23/87] 42287580...
+------- ['422875809be551a4ec179466aa8300ba']
+False
+69
+[24/87] 45555d33...
+------- ['45555d3305e255895b11695c179a98cd']
+False
+47
+[25/87] 480fca3c...
+------- ['480fca3c0b19afab1093cf2f01d63317']
+False
+65
+[26/87] 51ac1dd0...
+------- ['51ac1dd0849798d75614176ebff633be']
+False
+115
+[27/87] 546901e1...
+------- ['546901e10be0157c4fed40c04bfeaaa5']
+False
+71
+[28/87] 5580eba4...
+------- ['5580eba4ad4d1266854f3fec95266bd2']
+False
+101
+[29/87] 5c446b55...
+------- ['5c446b55e04c641913c09fd39d01d32b']
+False
+109
+[30/87] 5fa34bfc...
+------- ['5fa34bfca33d0ced12ea991006fbc934']
+False
+118
+[31/87] 600713d9...
+------- ['600713d94c8ebe9f12f7d12c6479a131']
+False
+49
+[32/87] 63e8142e...
+------- ['63e8142ef2fdd89aec0630ce6070831d']
+False
+76
+[33/87] 64f2d26b...
+------- ['64f2d26b3835e5fa744c35f1709e9c39']
+False
+120
+[34/87] 6ed487d2...
+------- ['6ed487d275984c8c141d40ad10664f46']
+False
+114
+[35/87] 713a6a94...
+------- ['713a6a94988cc13bf0bb50ad0cb0a015']
+False
+104
+[36/87] 791c5803...
+------- ['791c580346256bca5c697d19170a50b5']
+False
+101
+[37/87] 79d8490a...
+------- ['79d8490ab94fc7cd6530b1f22593d708']
+False
+113
+[38/87] 7d41e1ac...
+------- ['7d41e1ac6994aa87a10a923b31b16cd8']
+False
+82
+[39/87] 7dcfc929...
+------- ['7dcfc929e033d32b768ff4b51bd6a748']
+False
+79
+[40/87] 80099403...
+------- ['800994037be85bdfd6b3e43be70d02b3']
+False
+107
+[41/87] 8391d8b4...
+------- ['8391d8b451084771d0affcc26e34d773']
+False
+114
+[42/87] 83a37a7f...
+------- ['83a37a7ffd416a2e0a863c86166a97c8']
+False
+98
+[43/87] 83e4705b...
+------- ['83e4705b8ead02d2659f4d4241183e17']
+False
+70
+[44/87] 84120765...
+------- ['84120765740b5395aa49a2feb12fbb43']
+False
+101
+[45/87] 8617ddac...
+------- ['8617ddac1f48b148e3683738519b2e7a']
+False
+60
+[46/87] 86a13f6d...
+------- ['86a13f6d0bb7070ca042d60b2a582c4c']
+False
+99
+[47/87] 8730e746...
+------- ['8730e74690f38a87355bf45b00fc220e']
+False
+106
+[48/87] 8c0c301d...
+------- ['8c0c301d93ca93cae5c090caf21816ec']
+False
+89
+[49/87] 8ccf6026...
+------- ['8ccf6026d9114437e881d73faa34ea51']
+False
+110
+[50/87] 920e275a...
+------- ['920e275acd8721dad396513f4d7c99ea']
+False
+66
+[51/87] 964412e1...
+------- ['964412e1937376da4b5a70412a600bc9']
+False
+112
+[52/87] 96cf40f9...
+------- ['96cf40f9d3b2d69466161000cd69ae5c']
+False
+77
+[53/87] 97487f16...
+------- ['97487f1632fbab90426f6760a0fe94ea']
+False
+76
+[54/87] 993b20b5...
+------- ['993b20b5d910d05b5d79e0de71386a49']
+False
+110
+[55/87] a23be093...
+------- ['a23be0935798553a76b4e74cfc1740f1']
+False
+110
+[56/87] ac02afb2...
+------- ['ac02afb2367b89fdcab1b1245e195b27']
+False
+98
+[57/87] ac23ab17...
+------- ['ac23ab17a31d1abeea72e408ac5871c1']
+False
+100
+[58/87] b17eeda3...
+------- ['b17eeda399b312140dc40b8445a8e0a5']
+False
+77
+[59/87] b1fed5ab...
+------- ['b1fed5ab5fbd8a1b2fd93b925849a11c']
+False
+43
+[60/87] b3db52ff...
+------- ['b3db52ffec3adfc49eb061af2f2f2846']
+False
+104
+[61/87] b5dea997...
+------- ['b5dea997cb5e8f17d428c5047a9a1c08']
+False
+95
+[62/87] b855dfdd...
+------- ['b855dfddb71e240c1990b539533cd1f6']
+False
+44
+[63/87] bc3ae668...
+------- ['bc3ae668f5930dcab54b63a9cfd0896d']
+False
+95
+[64/87] bdefb86f...
+------- ['bdefb86f43d463ae4475291ec837f7d7']
+False
+96
+[65/87] c0fec81b...
+------- ['c0fec81b63a711ebc1c29a5df6e21b07']
+False
+96
+[66/87] c21283c1...
+------- ['c21283c11daebb61004b688f04c27715']
+False
+104
+[67/87] c2d80f95...
+------- ['c2d80f95e15e8973a9a943564baea1b7']
+False
+68
+[68/87] c703d473...
+------- ['c703d4732f997328085fad609ecd6656']
+False
+89
+[69/87] c75fc80f...
+------- ['c75fc80fba7cbe2b7d9cbc71be5b91a6']
+False
+58
+[70/87] cf007be9...
+------- ['cf007be9a060b779cf5a71b3e59a9d5b']
+False
+94
+[71/87] d038cb57...
+------- ['d038cb570b5de5840c0677e72d2ba198']
+False
+5
+[72/87] d060bfe5...
+------- ['d060bfe5da35b9cbd05e3dc33e167092']
+False
+114
+[73/87] d1075cae...
+------- ['d1075cae00d6198eb840ad42a2df742c']
+False
+31
+[74/87] d1cd5ab6...
+------- ['d1cd5ab675681cd980ee4dd212d8c53c']
+False
+114
+[75/87] d2c8a487...
+------- ['d2c8a48736cfe925440115558db860ee']
+False
+77
+[76/87] e06024d2...
+------- ['e06024d216d36ef2d7cddc8a67cf77a7']
+False
+112
+[77/87] e1b0f11a...
+------- ['e1b0f11a76278ee3f33e48e2d81b50d0']
+False
+92
+[78/87] e3d27e46...
+------- ['e3d27e46b8e06963920efb69f95df6fc']
+False
+94
+[79/87] e946e1f8...
+------- ['e946e1f85b5de2dba4edcf1aebbfdc0a']
+False
+105
+[80/87] f0db9e3e...
+------- ['f0db9e3e8b9b5080e5752383cceb34f6']
+False
+67
+[81/87] f17129fe...
+------- ['f17129feb37d5dcec17728f50d7beb95']
+False
+100
+[82/87] f3e19959...
+------- ['f3e1995993cccfe83056a8deb2e315ff']
+False
+64
+[83/87] f5529fba...
+------- ['f5529fbae87a8d170937d3e39d5a63cc']
+False
+83
+[84/87] f578948f...
+------- ['f578948fdf09c92bc603dae7400b6673']
+False
+73
+[85/87] fa394f6d...
+------- ['fa394f6d3d077bd5568fc3bc01580806']
+False
+9
+[86/87] fc73375d...
+------- ['fc73375dda5e5460f7088c78654a945e']
+False
+103
+[87/87] fe8ddda4...
+------- ['fe8ddda4ae8c71f7054ca024b82f5c98']
+False
+67
+
+Train samples: 4460, Test samples: 3027
+Skipped users: 0
+Train label distribution: [3243 1217]
+Train class balance: [0.72713004 0.27286996]
+Test label distribution: [2096  931]
+Test class balance: [0.69243475 0.30756525]
+
+Padding per-channel sample arrays to consistent length...
+  hourly_act: train shape (4460, 1358), test shape (3027, 1358)
+  hourly_loc: train shape (4460, 1022), test shape (3027, 1022)
+  hourly_unlock: train shape (4460, 686), test shape (3027, 686)
+  daily_loc_mov: train shape (4460, 168), test shape (3027, 168)
+  daily_loc_still: train shape (4460, 112), test shape (3027, 112)
+  daily_unlock: train shape (4460, 196), test shape (3027, 196)
+  daily_sleep: train shape (4460, 70), test shape (3027, 70)
+Extracting TSFEL features for channel: hourly_act
+  hourly_act done: train shape (4460, 45)
+Extracting TSFEL features for channel: hourly_loc
+  hourly_loc done: train shape (4460, 45)
+Extracting TSFEL features for channel: hourly_unlock
+  hourly_unlock done: train shape (4460, 45)
+Extracting TSFEL features for channel: daily_loc_mov
+  daily_loc_mov done: train shape (4460, 45)
+Extracting TSFEL features for channel: daily_loc_still
+  daily_loc_still done: train shape (4460, 45)
+Extracting TSFEL features for channel: daily_unlock
+  daily_unlock done: train shape (4460, 45)
+Extracting TSFEL features for channel: daily_sleep
+  daily_sleep done: train shape (4460, 45)
+
+Combined feature matrix shape (train): (4460, 315)
+Final feature count after filtering: 166
+
+Train class counts: class0=3243, class1=1217
+scale_pos_weight / class weight ratio: 2.6647
+
+============================================================
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/stress_env_310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/stress_env_310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+/home/huma/stress-recognition-using-multimodal-sensory-dataset-main/stress-recognition-using-multimodal-sensory-dataset-main/stress_env_310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1731: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+KNN (k=250, Manhattan) RESULTS
+============================================================
+Accuracy: 0.6924
+Weighted F1: 0.5666
+              precision    recall  f1-score   support
+
+           0       0.69      1.00      0.82      2096
+           1       0.00      0.00      0.00       931
+
+    accuracy                           0.69      3027
+   macro avg       0.35      0.50      0.41      3027
+weighted avg       0.48      0.69      0.57      3027
+
+
+============================================================
+Decision Tree (depth=10, class_weight=balanced) RESULTS
+============================================================
+Accuracy: 0.5811
+Weighted F1: 0.5882
+              precision    recall  f1-score   support
+
+           0       0.71      0.67      0.69      2096
+           1       0.34      0.39      0.36       931
+
+    accuracy                           0.58      3027
+   macro avg       0.53      0.53      0.53      3027
+weighted avg       0.60      0.58      0.59      3027
+
+
+============================================================
+Random Forest (500 trees, class_weight=balanced) RESULTS
+============================================================
+Accuracy: 0.6947
+Weighted F1: 0.5789
+              precision    recall  f1-score   support
+
+           0       0.70      0.99      0.82      2096
+           1       0.61      0.02      0.04       931
+
+    accuracy                           0.69      3027
+   macro avg       0.65      0.51      0.43      3027
+weighted avg       0.67      0.69      0.58      3027
+
+
+============================================================
+AdaBoost RESULTS
+============================================================
+Accuracy: 0.6888
+Weighted F1: 0.5719
+              precision    recall  f1-score   support
+
+           0       0.69      0.99      0.81      2096
+           1       0.34      0.01      0.02       931
+
+    accuracy                           0.69      3027
+   macro avg       0.52      0.50      0.42      3027
+weighted avg       0.59      0.69      0.57      3027
+
+
+============================================================
+XGBoost (scale_pos_weight) RESULTS
+============================================================
+Accuracy: 0.6762
+Weighted F1: 0.6143
+              precision    recall  f1-score   support
+
+           0       0.70      0.92      0.80      2096
+           1       0.42      0.13      0.20       931
+
+    accuracy                           0.68      3027
+   macro avg       0.56      0.53      0.50      3027
+weighted avg       0.62      0.68      0.61      3027
+
+
+============================================================
+Ridge Classifier (class_weight=balanced) RESULTS
+============================================================
+Accuracy: 0.5834
+Weighted F1: 0.5934
+              precision    recall  f1-score   support
+
+           0       0.72      0.65      0.68      2096
+           1       0.35      0.43      0.39       931
+
+    accuracy                           0.58      3027
+   macro avg       0.54      0.54      0.54      3027
+weighted avg       0.61      0.58      0.59      3027
+
+
+
+============================================================
+SUMMARY: ALL MODELS, SAME CORRECT PIPELINE
+============================================================
+Model                                           Accuracy    Wtd. F1
+XGBoost (scale_pos_weight)                        0.6762     0.6143
+Ridge Classifier (class_weight=balanced)          0.5834     0.5934
+Decision Tree (depth=10, class_weight=balanced)     0.5811     0.5882
+Random Forest (500 trees, class_weight=balanced)     0.6947     0.5789
+AdaBoost                                          0.6888     0.5719
+KNN (k=250, Manhattan)                            0.6924     0.5666
+
+BEST MODEL BY WEIGHTED F1: XGBoost (scale_pos_weight) (Accuracy=0.6762, F1=0.6143)

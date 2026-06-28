@@ -1,0 +1,5 @@
+< < < ---------------Average accuracy and weighted f1 on global model using test dataset from all clients:-----------------------------> > > 0.6879861600875595 0.5823246309106909
+< < < ---------------Average accuracy and weighted f1 on global model using test dataset from all clients:-----------------------------> > > 0.6916136473672367 0.5818219588928193
+< < < ---------------Average accuracy and weighted f1 on global model using test dataset from all clients:-----------------------------> > > 0.6916136473672367 0.5818219588928194
+< < < ---------------Average accuracy and weighted f1 on global model using test dataset from all clients:-----------------------------> > > 0.6908023518871573 0.5828303517435557
+< < < ---------------Average accuracy and weighted f1 on global model using test dataset from all clients:-----------------------------> > > 0.6912145867092298 0.5857201107652676

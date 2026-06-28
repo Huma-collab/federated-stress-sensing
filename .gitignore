@@ -1,0 +1,28 @@
+
+
+# Python environment - never commit
+stress_env_310/
+venv/
+__pycache__/
+*.pyc
+
+# Database - dataset is distributed via PhysioNet, not redistributed here
+*.sqlite
+*.db
+
+# Model checkpoints - large, regenerable from code; see README
+saved_models/
+*.pth
+*.pt
+
+# Raw/scratch artifacts not part of the verified pipeline
+*.png
+*.gif
+*.html
+*.csv
+
+# OS/editor noise
+.DS_Store
+.vscode/
+*.swp
+
