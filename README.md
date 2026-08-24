@@ -86,8 +86,4 @@ from the full training output), and all figures referenced in the manuscript.
 
 ## Citation
 
-If you use this code, please cite:
 
-```
-[Add full citation before submission]
-```
