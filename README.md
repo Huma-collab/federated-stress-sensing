@@ -46,12 +46,8 @@ Multi-Channel LSTM Approach to Stress Monitoring."*
 │   ├── summary_training_log_no_imputation.txt # No-imputation ablation
 │   ├── summary_training_log_dp_sigma*.txt     # DP noise sweep (6 levels)
 │   └── all_classifiers_output.log             # Full classical ML comparison
-│
-└── figures/
-    ├── fig_convergence.jpg            # Federated convergence, 5 rounds
-    ├── methodology.jpg                # Architecture / FedAvg framework diagram
-    ├── figure1_missingness.jpg        # Missing data audit
-    └── attn_combined_4panel.jpg       # Per-user attention trajectories
+
+
 ```
 
 ## What's Included vs. Excluded
